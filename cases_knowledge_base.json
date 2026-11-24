@@ -1,0 +1,192 @@
+[
+  {
+    "case_id": "PC-001",
+    "condition": "Scary Breathing Sounds (The 'Death Rattle')",
+    "primary_symptom": "My loved one is making a loud gurgling or rattling sound when they breathe. Are they choking?",
+    "common_terms": "choking sound, gargling, wet breathing, death rattle, fluid in lungs, noisy breathing",
+    "patient_profile": {
+      "age_group": "Any Age",
+      "palliative_stage": "Final days or hours",
+      "vital_concerns": "Family is terrified the patient is suffocating."
+    },
+    "recommended_interventions": [
+      "First, take a deep breath. They are not choking and this does not hurt them.",
+      "This sound happens because they are deeply asleep and too weak to swallow their normal saliva.",
+      "Gently roll them onto their side. This allows gravity to pull the spit out of their mouth so the air can pass quietly.",
+      "Wipe their mouth gently with a soft cloth."
+    ],
+    "contraindications_warnings": [
+      "Do not try to suck the spit out with a machine or tube; it will hurt them and make their body create even more spit.",
+      "Do not panic. It sounds much worse to you than it feels to them."
+    ],
+    "evidence_reference": "Based on standard Hospice Family Education pamphlets for End-of-Life care."
+  },
+  {
+    "case_id": "PC-002",
+    "condition": "Panic from Not Getting Enough Air",
+    "primary_symptom": "They are gasping for air, their chest is heaving, and they are panicking because they feel like they can't breathe.",
+    "common_terms": "can't breathe, gasping, suffocating, panting, panic attack, chest tightness",
+    "patient_profile": {
+      "age_group": "Any Age",
+      "palliative_stage": "Advanced illness",
+      "vital_concerns": "Severe fear and exhaustion from struggling to breathe."
+    },
+    "recommended_interventions": [
+      "Sit them up in bed and put pillows on their lap so they can lean forward and rest their arms.",
+      "Turn on a small fan and point it directly at their face. The feeling of cool wind tricks the brain into feeling like it's getting plenty of air.",
+      "If the nurse gave you a liquid pain medicine specifically for breathing (like liquid morphine), give it now. It calms the breathing center in the brain.",
+      "Hold their hand, speak softly, and ask them to match your slow breathing."
+    ],
+    "contraindications_warnings": [
+      "Do not leave them alone in the room; fear makes the breathlessness much worse.",
+      "Do not force them to lie flat on their back."
+    ],
+    "evidence_reference": "Based on Macmillan Cancer Support guides for managing breathlessness at home."
+  },
+  {
+    "case_id": "PC-003",
+    "condition": "Waking Them Up for Pain Medicine",
+    "primary_symptom": "They are finally asleep, but it's time for their scheduled pain pill. Should I wake them up to give it?",
+    "common_terms": "sleeping, skip pain pill, let them sleep, schedule, won't wake up",
+    "patient_profile": {
+      "age_group": "Any Age",
+      "palliative_stage": "Home care",
+      "vital_concerns": "Fear of causing an overdose vs. fear of them waking up in agony."
+    },
+    "recommended_interventions": [
+      "Yes, gently wake them up to take their scheduled, long-lasting pain medicine.",
+      "Pain medicine works best when it stays at a steady level in the body. If you let it wear off completely, they may wake up in terrible pain.",
+      "It is much harder to stop a severe pain spike than it is to prevent it from happening."
+    ],
+    "contraindications_warnings": [
+      "Do not skip the main pain pills just because they look comfortable right now.",
+      "Do not give extra pills if they are too sleepy to safely swallow; call your nurse instead."
+    ],
+    "evidence_reference": "Based on Hospice Foundation of America caregiver guidelines for pain management."
+  },
+  {
+    "case_id": "PC-004",
+    "condition": "Confusion and Seeing Things",
+    "primary_symptom": "They are pulling at their clothes, talking to people who aren't in the room, and trying to climb out of bed.",
+    "common_terms": "crazy, seeing ghosts, talking to dead relatives, restless, confused, pulling blankets, won't stay in bed",
+    "patient_profile": {
+      "age_group": "Elderly or Advanced Illness",
+      "palliative_stage": "Late stage",
+      "vital_concerns": "Risk of falling out of bed; family is highly distressed."
+    },
+    "recommended_interventions": [
+      "Check if they are physically uncomfortable. Do they have a full bladder? Are they constipated? Often, restlessness is the only way they can show they are in pain.",
+      "Keep the lights dim but not completely dark, and turn off the TV to reduce noise.",
+      "If they are talking to a relative who has passed away, do not argue with them or tell them it's not real. Let them find comfort in it.",
+      "If they are trying to stand up and might fall, sit right beside them and hold their hand to keep them grounded."
+    ],
+    "contraindications_warnings": [
+      "Do not tie them down or hold them down by force. This will terrify them and make them fight harder.",
+      "Do not argue with their hallucinations."
+    ],
+    "evidence_reference": "Based on Alzheimer's Association and Hospice guides for terminal agitation."
+  },{
+    "case_id": "AUTO-538",
+    "condition": "Chronic Pain",
+    "primary_symptom": "Chronic pain",
+    "common_terms": "Pain that lasts for weeks, months, or years",
+    "patient_profile": {
+      "age_group": "Any Age",
+      "palliative_stage": "Advanced",
+      "vital_concerns": "Persistent pain that may be caused by injury or ongoing condition"
+    },
+    "recommended_interventions": [
+      "Talk to a doctor to understand the cause of the pain",
+      "Try pain management techniques like medication, physical therapy, and mindfulness"
+    ],
+    "contraindications_warnings": [
+      "Do not ignore sudden or severe pain as it could be a sign of a serious condition"
+    ],
+    "evidence_reference": "MedQuAD Dataset"
+  },
+  {
+    "case_id": "AUTO-539",
+    "condition": "Chronic Pain",
+    "primary_symptom": "Chronic Pain",
+    "common_terms": "Pain, Chronic Pain, Treatment",
+    "patient_profile": {
+      "age_group": "Any Age",
+      "palliative_stage": "Advanced",
+      "vital_concerns": "Pain Management"
+    },
+    "recommended_interventions": [
+      "Medications",
+      "Acupuncture",
+      "Local Electrical Stimulation",
+      "Brain Stimulation",
+      "Surgery",
+      "Placebo Therapy",
+      "Psychotherapy",
+      "Relaxation Therapy",
+      "Medication Therapies",
+      "Biofeedback",
+      "Behavior Modification"
+    ],
+    "contraindications_warnings": [],
+    "evidence_reference": "MedQuAD Dataset"
+  },
+  {
+    "case_id": "AUTO-540",
+    "condition": "Chronic Pain",
+    "primary_symptom": "What is the outlook for Chronic Pain?",
+    "common_terms": "How to manage chronic pain",
+    "patient_profile": {
+      "age_group": "Any Age",
+      "palliative_stage": "Advanced",
+      "vital_concerns": "Pain management and treatment"
+    },
+    "recommended_interventions": [
+      "Understanding the causes of pain",
+      "Taking steps to alleviate pain"
+    ],
+    "contraindications_warnings": [
+      "Avoiding treatments that do not work"
+    ],
+    "evidence_reference": "MedQuAD Dataset"
+  },
+  {
+    "case_id": "AUTO-541",
+    "condition": "Chronic Pain",
+    "primary_symptom": "What research (or clinical trials) is being done for Chronic Pain?",
+    "common_terms": "Chronic pain, endorphins, acupuncture, electroacupuncture, nerve endings, stress, analgesics, painkillers",
+    "patient_profile": {
+      "age_group": "Any Age",
+      "palliative_stage": "Advanced",
+      "vital_concerns": "Pain management and quality of life"
+    },
+    "recommended_interventions": [
+      "Electroacupuncture to stimulate endorphin systems",
+      "Synthesis of new analgesics"
+    ],
+    "contraindications_warnings": [
+      "None mentioned in the provided information"
+    ],
+    "evidence_reference": "MedQuAD Dataset"
+  },
+  {
+    "case_id": "AUTO-870",
+    "condition": "Back Pain",
+    "primary_symptom": "Back Pain",
+    "common_terms": "Low back pain, back ache, shooting pain, stabbing pain, limited motion, inability to stand",
+    "patient_profile": {
+      "age_group": "Any Age",
+      "palliative_stage": "Advanced",
+      "vital_concerns": "Pain management, mobility issues, comfort"
+    },
+    "recommended_interventions": [
+      "Apply heat or cold packs",
+      "Maintain proper posture",
+      "Engage in gentle stretching exercises",
+      "Take prescribed pain medication as directed"
+    ],
+    "contraindications_warnings": [
+      "Avoid heavy lifting or strenuous activities",
+      "Do not ignore persistent or worsening pain"
+    ],
+    "evidence_reference": "MedQuAD Dataset"}
+]
