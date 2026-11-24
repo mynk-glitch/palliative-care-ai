@@ -48,7 +48,7 @@ def ask_local_ai(system_prompt: str, user_text: str) -> str:
                 "https://api.groq.com/openai/v1/chat/completions",
                 headers={"Authorization": f"Bearer {groq_key}", "Content-Type": "application/json"},
                 json={
-                    "model": "llama-3.1-8b-instant",
+                    "model": "openai/gpt-oss-20b",
                     "messages": [
                         {"role": "system", "content": system_prompt},
                         {"role": "user", "content": user_text}
